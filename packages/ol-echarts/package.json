@@ -1,9 +1,9 @@
 {
-  "name": "ol-echarts",
-  "version": "3.0.0",
+  "name": "@enn/ol-echarts",
+  "version": "4.0.0",
   "description": "a openlayers extension to echarts",
-  "author": "sakitam-fdd <smilefdd@gmail.com>",
-  "homepage": "https://sakitam-fdd.github.io/ol3Echarts",
+  "author": "zhuqingchun <zapzqc@qq.com>",
+  "homepage": "https://github.com/zapzqc/olEcharts",
   "private": false,
   "main": "dist/ol-echarts.js",
   "module": "dist/ol-echarts.esm.js",
@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sakitam-fdd/ol3Echarts.git",
+    "url": "https://github.com/zapzqc/olEcharts.git",
     "directory": "packages/ol-echarts"
   },
   "bugs": {
-    "url": "https://github.com/sakitam-fdd/ol3Echarts/issues"
+    "url": "https://github.com/zapzqc/olEcharts/issues"
   },
   "keywords": [
     "javascript",
